@@ -17,7 +17,7 @@
 |[Полевой Дмитрий](https://github.com/dvpsun/mipt2024s-5-modern-cv.git)|[я-облако](https://disk.yandex.ru/d/eOlAMqBw1xbWeg)        | координация, техэкспертиза                |
 |Сабанцев Лев            | |
 |Фокин Алексей (Ск)| |
-|[Тиняков Артём](https://github.com/ArtemTinyakov/mipt2024s-5-Tiniakov-A-D)| | instance segmentation |
+|[Тиняков Артём](https://github.com/ArtemTinyakov/mipt2024s-5-Tiniakov-A-D)| [photos](https://disk.yandex.ru/d/yKHmNgF8G0FKxg) | instance segmentation |
 
 # Домашние задания
 
