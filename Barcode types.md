@@ -11,3 +11,6 @@
 |Code 49 | 1D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/bbb17c7b-059a-4dd4-8f9a-535c424d5a92' width='300'>|
 |Code 128 | 1D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/5735671c-6b83-4a96-b9ff-da9e658873d9' width='300'>|
 |Codabar | 1D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/f40da100-f988-4a05-b23e-6a96746b9e89' width='300'>|Variable, 0 to 9, -, ., $, /, +,:, A, B, C, D
+|Telepen | 1D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/3c711343-1928-4841-bbb6-311e3f19ab4d' width='300'>|Full 128-character ASCII set
+|QR Code| 2D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/9a7fb140-9498-47f5-9933-db48d684adfb' width='300'>|Characters: Numeric, alphanumeric, byte/binary, and Kanji
+|Data Matrix Code| 2D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/f1fd06ea-fcdc-4e14-8193-77dcb0c8929c' width='300'>|Characters: 256 ASCII characters, ISO characters and EBCDIC characters
