@@ -12,5 +12,35 @@
 |Code 128 | 1D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/5735671c-6b83-4a96-b9ff-da9e658873d9' width='300'>|
 |Codabar | 1D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/f40da100-f988-4a05-b23e-6a96746b9e89' width='300'>|Variable, 0 to 9, -, ., $, /, +,:, A, B, C, D
 |Telepen | 1D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/3c711343-1928-4841-bbb6-311e3f19ab4d' width='300'>|Full 128-character ASCII set
-|QR Code| 2D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/9a7fb140-9498-47f5-9933-db48d684adfb' width='300'>|Characters: Numeric, alphanumeric, byte/binary, and Kanji
+|QR Code| 2D| <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/240px-QR_code_for_mobile_English_Wikipedia.svg.png' width='120'> <img src="http://qrcc.ru/images/microqr.png" width='120'> |[Quick Response code](https://ru.wikipedia.org/wiki/QR-%D0%BA%D0%BE%D0%B4) Characters: Numeric, alphanumeric, byte/binary, and Kanji
 |Data Matrix Code| 2D| <img src='https://github.com/dvpsun/mipt2024s-5-modern-cv/assets/58165454/f1fd06ea-fcdc-4e14-8193-77dcb0c8929c' width='300'>|Characters: 256 ASCII characters, ISO characters and EBCDIC characters
+
+
+#### [Aztec code](https://ru.wikipedia.org/wiki/Aztec_Code)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Azteccodeexample.svg/240px-Azteccodeexample.svg.png" width="120">
+
+#### Aztec Rune
+<img src="https://barcodeguide.seagullscientific.com/Content/Resources/Images/aztec_rune.GIF" width="120">
+
+#### Code One
+<img src="https://barcodeguide.seagullscientific.com/Content/Resources/Images/CodeOne.gif" width="120">
+
+#### Grid Matrix
+<img src="https://barcodeguide.seagullscientific.com/Content/Resources/Images/GridMatrix.gif" width="120">
+
+#### Han Xin Code
+<img src="https://barcodeguide.seagullscientific.com/Content/Resources/Images/HanXin.gif" width="120">
+
+#### iQR Code
+<img src="https://barcodeguide.seagullscientific.com/Content/Resources/Images/iQR.gif" width="120">
+
+#### [MaxiCode](https://ru.wikipedia.org/wiki/MaxiCode)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MaxiCode.svg/400px-MaxiCode.svg.png" width="120">
+
+#### rMQR Code
+<img src="https://barcodeguide.seagullscientific.com/Content/Resources/Images/rMQRCode.png" width="120">
+
+#### Mini Program Code
+<img src="https://res.wx.qq.com/wxdoc/dist/assets/img/WXACode.fa3d686a.png" width="120">
+
+https://www.researchgate.net/publication/351846843_Data_Hiding_Based_on_Mini_Program_Code
