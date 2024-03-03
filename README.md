@@ -13,7 +13,7 @@ https://www.peaktech.com/blog/learn-about-the-different-types-of-barcodes/
 |Белков Арсений| | data synthesis (image + markup) |
 |Зайченкова Екатерина   |        | zone image dewrapper |
 |Корчагин Сергей        |        | coarse zone detection (bbox) |
-|Кулакова Анна| |
+|[Кулакова Анна](https://github.com/kulakovaanna/mipt2024s-5-kulakova-a-d)| |
 |Малеванный Всеволод| |
 |Плохотнюк Всеволод     | |
 |[Полевой Дмитрий](https://github.com/dvpsun/mipt2024s-5-modern-cv.git)|[я-облако](https://disk.yandex.ru/d/eOlAMqBw1xbWeg)        | координация, техэкспертиза                |
