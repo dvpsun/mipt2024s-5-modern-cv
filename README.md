@@ -1,9 +1,6 @@
 # mipt2024s-5-modern-cv
 
-описание некоторых видов баркодов:         
-https://en.wikipedia.org/wiki/Barcode        
-https://tritonstore.com.au/barcode-types/          
-https://www.peaktech.com/blog/learn-about-the-different-types-of-barcodes/       
+[описание некоторых видов баркодов](barcode_types)
 
 # Участники
 
