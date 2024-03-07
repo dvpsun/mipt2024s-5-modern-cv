@@ -28,3 +28,6 @@
 # Sources and useful links
 https://barcodeguide.seagullscientific.com/Content/Symbologies/aztec_rune.htm
 https://www.researchgate.net/publication/351846843_Data_Hiding_Based_on_Mini_Program_Code
+https://en.wikipedia.org/wiki/Barcode        
+https://tritonstore.com.au/barcode-types/          
+https://www.peaktech.com/blog/learn-about-the-different-types-of-barcodes/   
