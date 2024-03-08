@@ -1,0 +1,225 @@
+{
+  "msg886302187-77740.jpg172611": {
+    "filename": "msg886302187-77740.jpg",
+    "size": 172611,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            559,
+            558,
+            573,
+            598,
+            632,
+            674,
+            718,
+            751,
+            779,
+            777,
+            740,
+            707,
+            667,
+            636,
+            610,
+            587,
+            571
+          ],
+          "all_points_y": [
+            404,
+            389,
+            390,
+            389,
+            386,
+            382,
+            376,
+            371,
+            365,
+            382,
+            390,
+            395,
+            400,
+            402,
+            404,
+            406,
+            408
+          ]
+        },
+        "region_attributes": {
+          "barcode": "1d"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "msg886302187-77741.jpg182869": {
+    "filename": "msg886302187-77741.jpg",
+    "size": 182869,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            449,
+            503,
+            631,
+            584
+          ],
+          "all_points_y": [
+            564,
+            464,
+            503,
+            611
+          ]
+        },
+        "region_attributes": {
+          "barcode": "2d"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "msg886302187-77742.jpg118204": {
+    "filename": "msg886302187-77742.jpg",
+    "size": 118204,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            428,
+            425,
+            468,
+            513,
+            562,
+            595,
+            621,
+            621,
+            600,
+            576,
+            550,
+            521,
+            494,
+            466
+          ],
+          "all_points_y": [
+            726,
+            676,
+            673,
+            663,
+            648,
+            631,
+            616,
+            671,
+            681,
+            694,
+            703,
+            711,
+            720,
+            723
+          ]
+        },
+        "region_attributes": {
+          "barcode": "1d"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "msg886302187-77743.jpg138657": {
+    "filename": "msg886302187-77743.jpg",
+    "size": 138657,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            531,
+            502,
+            570,
+            685,
+            728
+          ],
+          "all_points_y": [
+            823,
+            634,
+            625,
+            617,
+            802
+          ]
+        },
+        "region_attributes": {
+          "barcode": "2d"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "msg886302187-77744.jpg101282": {
+    "filename": "msg886302187-77744.jpg",
+    "size": 101282,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            356,
+            350,
+            417,
+            424
+          ],
+          "all_points_y": [
+            369,
+            296,
+            289,
+            359
+          ]
+        },
+        "region_attributes": {
+          "barcode": "2d"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            532,
+            531,
+            586,
+            586
+          ],
+          "all_points_y": [
+            441,
+            378,
+            369,
+            431
+          ]
+        },
+        "region_attributes": {
+          "barcode": "2d"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            439,
+            432,
+            536,
+            537
+          ],
+          "all_points_y": [
+            695,
+            596,
+            571,
+            668
+          ]
+        },
+        "region_attributes": {
+          "barcode": "2d"
+        }
+      }
+    ],
+    "file_attributes": {}
+  }
+}
