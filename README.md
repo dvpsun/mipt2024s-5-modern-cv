@@ -8,7 +8,7 @@
 | --------------------- | -------| ----------------------------------------- |
 |Белков Алексей| |
 |Белков Арсений| | data synthesis (image + markup) |
-|Зайченкова Екатерина   |        | zone image dewrapper |
+|[Зайченкова Екатерина](https://github.com/Zayrina/mipt2024s-5-zaychenkova-e-e)   |        | zone image dewrapper |
 |Корчагин Сергей        |        | coarse zone detection (bbox) |
 |[Кулакова Анна](https://github.com/kulakovaanna/mipt2024s-5-kulakova-a-d)| | refining synthetic images
 |Малеванный Всеволод| |
