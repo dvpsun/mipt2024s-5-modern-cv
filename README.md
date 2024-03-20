@@ -7,14 +7,14 @@
 | участник              | данные | задача (кратко)                           |
 | --------------------- | -------| ----------------------------------------- |
 |Белков Алексей| |
-|Белков Арсений| |  |
+|Белков Арсений|  | Rotated rectangles detection |
 |[Зайченкова Екатерина](https://github.com/Zayrina/mipt2024s-5-zaychenkova-e-e)   |        | zone image dewrapper |
 |Корчагин Сергей        |        | coarse zone detection (bbox) |
 |[Кулакова Анна](https://github.com/kulakovaanna/mipt2024s-5-kulakova-a-d)| | refining synthetic images |
 |Малеванный Всеволод| |
-|Плохотнюк Всеволод     | генерация эталонных данных |
+|Плохотнюк Всеволод |     | генерация эталонных данных |
 |[Полевой Дмитрий](https://github.com/dvpsun/mipt2024s-5-modern-cv)|[я-облако](https://disk.yandex.ru/d/eOlAMqBw1xbWeg)        | координация, техэкспертиза                |
-|Сабанцев Лев            | общий pipeline + общая оценка качества |
+|Сабанцев Лев     |       | общий pipeline + общая оценка качества |
 |[Тиняков Артём](https://github.com/ArtemTinyakov/mipt2024s-5-Tiniakov-A-D)| [photos](https://disk.yandex.ru/d/yKHmNgF8G0FKxg) | in zone instance segmentation |
 
 # Домашние задания
