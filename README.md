@@ -6,7 +6,7 @@
 
 | участник              | данные | задача (кратко)                           |
 | --------------------- | -------| ----------------------------------------- |
-|Белков Алексей| |
+|[Белков Алексей](https://github.com/alexeybelkov)| |Оптимизация генератора
 |Белков Арсений|  | Rotated rectangles detection |
 |[Зайченкова Екатерина](https://github.com/Zayrina/mipt2024s-5-zaychenkova-e-e)   |        | zone image dewrapper |
 |Корчагин Сергей        |        | coarse zone detection (bbox) |
