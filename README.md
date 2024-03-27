@@ -7,7 +7,7 @@
 | участник              | данные | задача (кратко)                           |
 | --------------------- | -------| ----------------------------------------- |
 |Белков Алексей| |
-|Белков Арсений|  | Rotated rectangles detection |
+|[Белков Арсений](https://github.com/arseniybelkov/mipt2024s-5-belkov-arseniy)|  | Rotated rectangles detection |
 |[Зайченкова Екатерина](https://github.com/Zayrina/mipt2024s-5-zaychenkova-e-e)   |        | zone image dewrapper |
 |Корчагин Сергей        |        | coarse zone detection (bbox) |
 |[Кулакова Анна](https://github.com/kulakovaanna/mipt2024s-5-kulakova-a-d)| | refining synthetic images |
